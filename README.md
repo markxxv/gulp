@@ -1,5 +1,5 @@
 # Gulp Starter Kit
-A starter kit for fast starting your new front-end builds.
+A starter kit for fast starting your new front-end builds and automatic building.
 
 - Compiles, autoprefixes and minimizes your Scss (can easily switch to Sass or LESS)
 - Uglifys your JS
