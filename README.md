@@ -15,3 +15,5 @@ Once you have cloned the repo, navigate in to the directory via terminal and run
 npm install
 gulp
 ```
+
+![BrowserSync](browsersync.gif "BS")
